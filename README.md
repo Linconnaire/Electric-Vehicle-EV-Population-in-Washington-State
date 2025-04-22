@@ -48,7 +48,9 @@ The following steps were taken to curate and visualize the data in Tableau:
 -	EV Utility Support: A bar chart showing the contribution of the top 5 electric utilities supporting EV infrastructure.
 -	Clean Alternative Fuel Eligibility: A donut chart indicating the percentage of EVs eligible for alternative fuel incentives.
 
-**_You can interact with the dashboard_** [here](https://public.tableau.com/app/profile/abiodun.afolabi6142/viz/ElectricVehiclePopulationinWashingtonStateDOL/Dashboard2)
+**Interactive Dashboard**
+
+_You can interact with the dashboard_ [here](https://public.tableau.com/app/profile/abiodun.afolabi6142/viz/ElectricVehiclePopulationinWashingtonStateDOL/Dashboard2)
 
 ## Key Insights and Findings
 
